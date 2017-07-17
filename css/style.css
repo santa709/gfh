@@ -145,3 +145,28 @@ body {
     margin-top: 120px;
   }
 }
+
+/***        Хантя Андрей           ****/
+.bg{
+  background: url(../img/fon.jpg);
+  background-position: center;
+  background-size: cover;
+  border: 2px solid black;
+  border-radius: 25px;
+  -webkit-box-shadow: 3px 3px 30px 12px rgba(140, 168, 241, 1);
+  -moz-box-shadow:    3px 3px 30px 12px rgba(140, 168, 241, 1);
+  box-shadow:         3px 3px 30px 12px rgba(140, 168, 241, 1);
+  color:  black;
+  text-shadow: -1px -1px 14px rgba(150, 150, 150, 1);
+}
+
+.hantya{
+  width: 350px;
+  height: 250px;
+  margin: 50px;
+  border: 2px solid black;
+  border-radius: 0px 50px;
+  -webkit-box-shadow: 3px 3px 30px 12px rgba(50, 50, 50, 1);
+  -moz-box-shadow:    3px 3px 30px 12px rgba(50, 50, 50, 1);
+  box-shadow:         3px 3px 30px 12px rgba(50, 50, 50, 1);
+}
